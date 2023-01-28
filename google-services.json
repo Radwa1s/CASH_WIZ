@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "539662080109",
+    "project_id": "cwiz-a4dd5",
+    "storage_bucket": "cwiz-a4dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539662080109:android:aeeee62585741864e44764",
+        "android_client_info": {
+          "package_name": "com.radwaa.cashwiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539662080109-ksvgaiokug3d64fbbtgumiqtfaoguncv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radwaa.cashwiz",
+            "certificate_hash": "4a71e8d83bd8b8c069cbd2821a19a767f422653e"
+          }
+        },
+        {
+          "client_id": "539662080109-lf5pbafmm6m0vduhk6lhenom1uqc07s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radwaa.cashwiz",
+            "certificate_hash": "406cef1c17b651711392f2e7fa73e62e6838d475"
+          }
+        },
+        {
+          "client_id": "539662080109-dm7gilmgd2p4d6ia28rkinhn61eu98bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUGmc1YsoB6HGkXPXzarJJotVnMgK95WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539662080109-dm7gilmgd2p4d6ia28rkinhn61eu98bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
